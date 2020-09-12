@@ -1,0 +1,13 @@
+C:\Users\15878\source\repos\PetroTest\bin\Debug\netcoreapp3.1\PetroTest.exe
+C:\Users\15878\source\repos\PetroTest\bin\Debug\netcoreapp3.1\PetroTest.deps.json
+C:\Users\15878\source\repos\PetroTest\bin\Debug\netcoreapp3.1\PetroTest.runtimeconfig.json
+C:\Users\15878\source\repos\PetroTest\bin\Debug\netcoreapp3.1\PetroTest.runtimeconfig.dev.json
+C:\Users\15878\source\repos\PetroTest\bin\Debug\netcoreapp3.1\PetroTest.dll
+C:\Users\15878\source\repos\PetroTest\bin\Debug\netcoreapp3.1\PetroTest.pdb
+C:\Users\15878\source\repos\PetroTest\obj\Debug\netcoreapp3.1\PetroTest.csprojAssemblyReference.cache
+C:\Users\15878\source\repos\PetroTest\obj\Debug\netcoreapp3.1\PetroTest.AssemblyInfoInputs.cache
+C:\Users\15878\source\repos\PetroTest\obj\Debug\netcoreapp3.1\PetroTest.AssemblyInfo.cs
+C:\Users\15878\source\repos\PetroTest\obj\Debug\netcoreapp3.1\PetroTest.csproj.CoreCompileInputs.cache
+C:\Users\15878\source\repos\PetroTest\obj\Debug\netcoreapp3.1\PetroTest.dll
+C:\Users\15878\source\repos\PetroTest\obj\Debug\netcoreapp3.1\PetroTest.pdb
+C:\Users\15878\source\repos\PetroTest\obj\Debug\netcoreapp3.1\PetroTest.genruntimeconfig.cache
